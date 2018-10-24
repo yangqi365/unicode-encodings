@@ -1,6 +1,6 @@
 # unicode-encodings
 
-### C functions of encode/decode utf-16
+- C functions of encode/decode utf-16
 
 ```cpp
 #include <stdint.h>
