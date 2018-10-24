@@ -1,6 +1,6 @@
 # unicode-encodings
 
-***C functions of encode/decode utf-16***
+[***C functions of encode/decode utf-16***](https://unicodebook.readthedocs.io/unicode_encodings.html)
 
 ```cpp
 #include <stdint.h>
